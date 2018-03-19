@@ -1,0 +1,7 @@
+- city: 'shanghai'
+  description: 'Super lovely flat in Shanghai'
+  category: 'Popular'
+- city: 'paris'
+  description: 'My flat in Paris'
+  category: 'Popular'
+
